@@ -1,0 +1,16 @@
+#!/usr/bin/python
+import os
+print(dir(os))
+name = 'Venkataramana'
+Lastname='Kintali'
+print "Printing Fullname 10 times"
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
+print ("Fullname: "+name+" "+Lastname+"\n")
